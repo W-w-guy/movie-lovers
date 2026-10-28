@@ -1,0 +1,154 @@
+{
+ "note": "Offline fixtures. Real TMDB field shape, invented poster paths, so demo mode needs no key and no network.",
+ "search": {
+  "alien": [
+   348,
+   679,
+   8077,
+   8078,
+   70981,
+   126889
+  ],
+  "aliens": [
+   679
+  ],
+  "interstellar": [
+   157336
+  ],
+  "inception": [
+   27205
+  ],
+  "matrix": [
+   603
+  ],
+  "space": [
+   157336,
+   70981,
+   348
+  ],
+  "zzzz": []
+ },
+ "movies": {
+  "348": {
+   "id": 348,
+   "title": "Alien",
+   "release_date": "1979-01-01",
+   "vote_average": 8.2,
+   "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal sent by a nearby planet. The crew discovers a nest of eggs and one of them hatches into a deadly organism.",
+   "poster_path": "/p348.jpg"
+  },
+  "679": {
+   "id": 679,
+   "title": "Aliens",
+   "release_date": "1986-01-01",
+   "vote_average": 8.0,
+   "overview": "When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story, all contact is lost.",
+   "poster_path": "/p679.jpg"
+  },
+  "8077": {
+   "id": 8077,
+   "title": "Alien³",
+   "release_date": "1992-01-01",
+   "vote_average": 6.4,
+   "overview": "Ripley is the sole survivor after her escape pod crashes on Fiorina 161, a prison planet, where she discovers that the alien threat has followed her.",
+   "poster_path": "/p8077.jpg"
+  },
+  "8078": {
+   "id": 8078,
+   "title": "Alien: Resurrection",
+   "release_date": "1997-01-01",
+   "vote_average": 6.2,
+   "overview": "Two hundred years after Ripley's death, military scientists clone her to study the alien queen inside her - a decision they come to regret.",
+   "poster_path": "/p8078.jpg"
+  },
+  "70981": {
+   "id": 70981,
+   "title": "Prometheus",
+   "release_date": "2012-01-01",
+   "vote_average": 6.4,
+   "overview": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realise they are not alone.",
+   "poster_path": "/p70981.jpg"
+  },
+  "126889": {
+   "id": 126889,
+   "title": "Alien: Covenant",
+   "release_date": "2017-01-01",
+   "vote_average": 6.1,
+   "overview": "The crew of the colony ship Covenant discover what they think is an uncharted paradise, but it is a dark, dangerous world.",
+   "poster_path": "/p126889.jpg"
+  },
+  "157336": {
+   "id": 157336,
+   "title": "Interstellar",
+   "release_date": "2014-01-01",
+   "vote_average": 8.4,
+   "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+   "poster_path": "/p157336.jpg"
+  },
+  "27205": {
+   "id": 27205,
+   "title": "Inception",
+   "release_date": "2010-01-01",
+   "vote_average": 8.4,
+   "overview": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+   "poster_path": "/p27205.jpg"
+  },
+  "603": {
+   "id": 603,
+   "title": "The Matrix",
+   "release_date": "1999-01-01",
+   "vote_average": 8.2,
+   "overview": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+   "poster_path": "/p603.jpg"
+  }
+ },
+ "recommendations": {
+  "348": [
+   679,
+   8077,
+   8078,
+   70981,
+   126889,
+   157336,
+   603
+  ],
+  "679": [
+   348,
+   8077,
+   70981,
+   126889
+  ],
+  "157336": [
+   27205,
+   603,
+   348
+  ],
+  "27205": [
+   157336,
+   603
+  ],
+  "603": [
+   27205,
+   157336
+  ],
+  "8077": [
+   348,
+   679
+  ],
+  "8078": [
+   348,
+   679,
+   8077
+  ],
+  "70981": [
+   126889,
+   348,
+   679
+  ],
+  "126889": [
+   70981,
+   348,
+   679
+  ]
+ }
+}

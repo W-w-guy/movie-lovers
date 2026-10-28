@@ -1,0 +1,94 @@
+{
+ "files": {
+  ".gitignore": {
+   "bytes": 54,
+   "sha256": "6cf4216481d54bc4c6ac42d24310a64a6bb0098ff2807e8a32ffc26881226641"
+  },
+  "README.md": {
+   "bytes": 6772,
+   "sha256": "8e0e5a4f278607938da1d8229b72e3a9dc90c14447d01fb39bf04112c67da2b5"
+  },
+  "SETUP.md": {
+   "bytes": 4298,
+   "sha256": "f0addd7c3154352c93244ae77125d2c0c039c3e58aa3ae7adf5a7b2901a66697"
+  },
+  "USER_GUIDE.md": {
+   "bytes": 4618,
+   "sha256": "393c1c44afee5e6faf99ff25729bdee980b793a23f675fc65ee2e059332a2e8d"
+  },
+  "_bid_1348.txt": {
+   "bytes": 3722,
+   "sha256": "0cfa939caf92ab9ff4c6bbd485f5495c071e08b9519677b4da4d752121e754cb"
+  },
+  "app/__init__.py": {
+   "bytes": 58,
+   "sha256": "f3e1aabf36ea6237c957a4caed90a0104c85f4b1bab280895f4b2be165c8dbb5"
+  },
+  "app/pages.py": {
+   "bytes": 14291,
+   "sha256": "fe6c6239e2ce3826499f01d6d06e1a3675a5d5a5fe07a4f033dd0f734ed6890f"
+  },
+  "app/server.py": {
+   "bytes": 14064,
+   "sha256": "a1294caea506a5bcb8f1c66467d37e6f108a67a5b7d8a301b811e753ac638b5f"
+  },
+  "app/store.py": {
+   "bytes": 9070,
+   "sha256": "ed92b39d3e0426873ae66b26351e04b80394348136ba3a548308afccce2cb4d8"
+  },
+  "app/tmdb.py": {
+   "bytes": 5186,
+   "sha256": "35a54a7b3cae3635ea5c620af9c148ddc18917c28203261836b9abe1c2a631d8"
+  },
+  "fixtures/movies.json": {
+   "bytes": 3840,
+   "sha256": "11b6a509332eb28f13c36ee7235821e9090fca91af98d99ea06d75a5e567939b"
+  },
+  "run.py": {
+   "bytes": 5675,
+   "sha256": "09b14e4cb4a83d7cee36252dc1707387280d05627c7c7aa5888b8fb59d43c6bc"
+  },
+  "screenshots/00-welcome.png": {
+   "bytes": 25477,
+   "sha256": "32624d3dfc8f0b0cc6a70000812968c5a4aeee78600f17bdd2df3b700091eaa8"
+  },
+  "screenshots/01-search.png": {
+   "bytes": 30191,
+   "sha256": "df348d0c0180fdd743adfe631557ec8ebee709ffa917871cc2f868fff049d09d"
+  },
+  "screenshots/02-movie-detail.png": {
+   "bytes": 45951,
+   "sha256": "7bfc05ccbb390fb50ac43440ac1b24aad9fcde7de643f10401f1705482fc39fa"
+  },
+  "screenshots/03-ratings.png": {
+   "bytes": 36149,
+   "sha256": "7455113cdb3ff2e684647cd7c425544d5eeba2ec82407b3482e071a46bc49e62"
+  },
+  "screenshots/04-watchlist.png": {
+   "bytes": 31193,
+   "sha256": "aa68a3347aeb49c7e959ffd1bf5ed565262ed7e7bf19b550b2ae8f851532eaf9"
+  },
+  "screenshots/05-similar-picks.png": {
+   "bytes": 41312,
+   "sha256": "1f65c913708227ba8af1c55ee885a4d736529af566f9af5aa31a88fcc546d235"
+  },
+  "test_all.py": {
+   "bytes": 355,
+   "sha256": "711ebf588849d41c6f19f0addc61b13c9993504a6a115651a91434c604ec3824"
+  },
+  "tests/test_movie_lovers.py": {
+   "bytes": 21449,
+   "sha256": "1c5a44d2098751d66994f56a51420aac0ca7fd1a8c604ddd245d7f4fc01c5881"
+  },
+  "tools/make_screenshots.py": {
+   "bytes": 7025,
+   "sha256": "a41bd237572171aaec4e937fa8534a7118261bf2ea0ddd15c8544ec1e6b02a47"
+  }
+ },
+ "problem_id": 1348,
+ "project": "movie-lovers",
+ "totals": {
+  "bytes": 310750,
+  "files": 21
+ }
+}
